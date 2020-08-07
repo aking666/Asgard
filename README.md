@@ -6,7 +6,7 @@ Asgard是设计用于综合解决常驻进程应用、计划任务、定时任�
 
 ## 架构设计
 
-![架构设计图](/doc/Asgard.png)
+![架构设计图](doc/Asgard.png)
 
 - Asgard系统由web节点、master节点、agent节点组成。
 - web节点主要功能包括实例管理、分组管理、作业配置、作业运行状态控制、作业运行状态查看、日志查询
@@ -16,13 +16,15 @@ Asgard是设计用于综合解决常驻进程应用、计划任务、定时任�
 
 ## Web界面预览
 
-![首页控制台](/doc/page1.png)
+![首页控制台](doc/page1.png)
 
-![实例管理](/doc/page2.png)
 
-![任务管理](/doc/page3.png)
 
-![监控信息](/doc/page4.png)
+![实例管理](doc/page2.png)
+
+![任务管理](doc/page3.png)
+
+![监控信息](doc/page4.png)
 
 ## 指令作用
 
